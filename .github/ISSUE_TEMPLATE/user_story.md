@@ -8,7 +8,7 @@ assignees: ""
 
 # User Story – [Short Title]
 
-## 📝 Description
+## ✨ Description
 
 [Brief description of what needs to be built or completed.]
 
@@ -16,6 +16,6 @@ assignees: ""
 **I want** [the thing you need to build]  
 **So that** [the reason or benefit]
 
-## 🔧 Notes (Optional)
+## 📝 Notes (Optional)
 
 [Any small clarifications, edge cases, or reminders.]
